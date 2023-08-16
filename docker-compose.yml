@@ -9,7 +9,7 @@ services:
     # Basic example using Telegram notifications
     # For more options and details visit https://github.com/Der-Henning/tgtg/wiki/Configuration
 
-    - TGTG_USERNAME=
+    - TGTG_USERNAME=pokretas@gmail.com
     - SLEEP_TIME=60
     - TZ=Europe/Berlin
     - LOCALE=de_DE
